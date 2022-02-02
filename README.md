@@ -17,4 +17,4 @@ I searched for a pyMC3 implementation but didn't come across any, ad no coice bu
 Then I came across a STAN implementation http://blackwell.math.yorku.ca/MATH6635/2016/stan-reference-2.12.0.pdf that helped in putting together this notebook.
 Please check
 </br>
-# Great! another accoplishment! feels good! Enjoy!
+# Great! another accomplishment! feels good! Enjoy!
